@@ -1,0 +1,8 @@
+/.idea
+/boxcert.cer
+/.env
+/boxcert.cerZone.Identifier
+/grafana/data
+!/grafana/data/.gitkeep
+/grafana/provisioning
+!/grafana/provisioning/.gitkeep
