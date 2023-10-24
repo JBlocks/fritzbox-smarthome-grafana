@@ -39,7 +39,7 @@ services:
     networks:
       - monitoring
   fritzbox_smarthome_exporter:
-    image: jaymedh/fritzbox_smarthome_exporter:v0.0.8
+    image: jaymedh/fritzbox_smarthome_exporter:v0.4.3
     restart: unless-stopped
     volumes:
       - ./boxcert.cer:/fritzbox.pem:ro
