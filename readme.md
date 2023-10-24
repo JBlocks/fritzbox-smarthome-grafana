@@ -14,7 +14,7 @@ The latest configuration was validated with the following FRITZ!Box model, FRITZ
 |------------------------------|-------------------------------------|---------|
 | Prometheus                   | prom/prometheus                     | 2.31    |
 | Grafana                      | grafana/grafana                     | 8.2     |
-| FRITZ!Box smarthome exporter | jaymedh/fritzbox_smarthome_exporter | 0.0.8   |
+| FRITZ!Box smarthome exporter | jaymedh/fritzbox_smarthome_exporter | 0.4.3   |
 
 ## Motivation
 Independent reading of the power consumption of AVM FRITZ devices, temperatures in rooms with a visualization (graphs) and the possibility of filtering / limiting the data.
