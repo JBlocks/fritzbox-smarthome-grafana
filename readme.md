@@ -8,7 +8,7 @@ The latest configuration was validated with the following FRITZ!Box model, FRITZ
 
 | FRITZ!OS | Box         |
 |----------|----------------|
-| 07.29    | FRITZ!Box 7590 |
+| 7.57    | FRITZ!Box 7590 |
 
 | Software                     | Docker image                        | Version |
 |------------------------------|-------------------------------------|---------|
